@@ -1,0 +1,15 @@
+{
+  "name": "Bikeshare",
+  "platform": "HTML",
+  "version": "2.12",
+  "wabVersion": "2.12",
+  "author": "Gavin Rehkemper",
+  "description": "Find shared Bikes",
+  "properties": {
+    "hasConfig": false,
+    "hasStyle": false,
+    "hasLocale": false,
+    "hasUIFile": true,
+    "hasSettingPage": false
+  }
+}
